@@ -1,0 +1,33 @@
+//
+//  PrefixHeader.pch
+//  SandBoxIOKitStaticLibrary
+//
+//  Created by Zhang Naville on 15/9/17.
+//  Copyright © 2015年 Naville. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+/* INTE */ #define FclBlowfish w4fPwLArYWsCLjEsx
+/* PROP */ #define Key t5vxsblNbvUNjmWHdqlKxP
+/* VARP */ #define _Key _t5vxsblNbvUNjmWHdqlKxP
+/* SETP */ #define setKey setT5vxsblNbvUNjmWHdqlKxP
+/* PROP */ #define IV a7lWchnw
+/* VARP */ #define _IV _a7lWchnw
+/* SETP */ #define setIV setA7lWchnw
+/* METH */ #define encrypt t5pwhsP_ANhhLhoir
+/* METH */ #define withMode q9ZMcatGQGZxWo
+/* METH */ #define withPadding v2MVDpgJjSrFU_iopO_
+/* METH */ #define decrypt f5hlAUwkSkDMGsRr
+/* METH */ #define prepare u3GslAeiKVk
+/* METH */ #define pad h4ZrsLXoaEWkJdNREwV
+/* METH */ #define removePad i1nAlREHNgyWHQT
+/* METH */ #define encipher h3kOO_FxjXXNPa
+/* METH */ #define xr k1BsrzLlovHBUPKSm
+/* METH */ #define decipher v7ovAwUNUJWTyJWPAT
+/* METH */ #define F a1jEqcFjpuuB
+#define getIDInternal KFEWAGBFKJESLDFBKHAWRO
+#endif /* PrefixHeader_pch */
